@@ -1,0 +1,10 @@
+1;Ecoponto Jardim das Flores
+2;Centro de Reciclagem Vila Nova
+3;Ponto Verde Parque Industrial
+4;Estação Ecológica Centro
+5;Ecoponto Bairro Alto
+6;Centro de Triagem São José
+7;Ponto de Coleta Zona Leste
+8;Ecoponto Residencial Aurora
+9;Central de Reciclagem Municipal
+10;Ponto Verde Jardim Esperança
